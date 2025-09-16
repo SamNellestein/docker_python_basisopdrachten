@@ -4,6 +4,8 @@
 
 # Hier komt je code...
 
-my_list = ...
+my_list = "Tinus gaat op zijn tandem naar de hottentottententoonstelling"
+aantal = my_list.count("t")
 
-print()
+print(f'De letter "t" komt {aantal}x voor in my_string')
+

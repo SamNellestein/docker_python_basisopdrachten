@@ -3,3 +3,15 @@
 # Groep:
 
 # Hier komt je code...
+
+
+print("      *")
+print("     ***")
+print("    ****")
+print("   ******")
+print("  ********")
+print(" **********")
+print("************")
+print("     ***")
+print("     ***")
+print("     ***")
