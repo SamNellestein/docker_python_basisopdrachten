@@ -4,13 +4,13 @@
 
 # Hier komt je code...
 x = 1
-y = ...
-print( ... )
+y = 45
+print('De uitkomst is: ', x + y)
 
 x = 2
-y = ...
-print( ... )
+y = 30
+print('De uitkomst is: ', x + y)
 
 x = 0
-y = ...
-print( ... )
+y = 30
+print('De uitkomst is: ', x + y)
