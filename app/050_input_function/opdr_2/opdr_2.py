@@ -26,3 +26,6 @@ gasten.insert(index_kees + 1, "George")
 
 print("De gastenlijst is nu:", gasten)
 
+print("Je hebt een grotere tafel gevonden, je kunt meer mensen uitnodigen!")
+
+
