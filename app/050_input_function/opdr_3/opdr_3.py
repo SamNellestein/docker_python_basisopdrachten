@@ -4,5 +4,6 @@
 
 # Hier komt je code...
 
-Print = "test"
+Print = "Hello World"
+print(Print)
 
