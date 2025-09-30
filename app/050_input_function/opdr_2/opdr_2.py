@@ -24,4 +24,5 @@ print("even later belt George, hij wilt naast Kees zitten!")
 index_kees = gasten.index("Kees")
 gasten.insert(index_kees + 1, "George")
 
-print("De defininitieve gastenlijst is nu:", gasten)
+print("De gastenlijst is nu:", gasten)
+
