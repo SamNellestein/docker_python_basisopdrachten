@@ -4,3 +4,5 @@
 
 # Hier komt je code...
 
+Print = "test"
+
