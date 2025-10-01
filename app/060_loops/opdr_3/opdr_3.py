@@ -6,4 +6,10 @@
 
 # Hier start de for-loop
 
-my_list = []
+getallen = []
+
+for i in range (3,81,3):
+    waarde = (i**2)/3
+    getallen.append(waarde)
+
+print (getallen)
