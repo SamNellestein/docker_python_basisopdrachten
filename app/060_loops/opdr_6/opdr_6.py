@@ -6,17 +6,17 @@
 
 # Hier start de for-loop
 
-pizzas = 'margharita', 'funghi', 'quattro stagioni', 'quattro formaggi', 'tonno', 'calzone'
+pizzas = ('calzone', 'margharita', 'olivio', 'quattro stagioni', 'verdi', 'yo-favorito')
 print("startlijst:", pizzas)
 
-pizzas.sort()
+pizzas = sorted(pizzas)
 print("gesorteerde lijst:", pizzas)
 
 pizzas.append('yo-favorito')
 print("met extra pizza:", pizzas)
 
-pizzas.remove('funghi')
-print("zonder funghi:", pizzas)
+pizzas.remove('verdi')
+print("zonder verdi:", pizzas)
 
 print ("eerste pizza:", pizzas[:3])
 
